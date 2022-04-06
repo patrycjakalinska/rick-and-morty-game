@@ -1,0 +1,13 @@
+C:\Users\devan\source\repos\gra\gra\obj\Debug\netcoreapp3.1\gra.csprojAssemblyReference.cache
+C:\Users\devan\source\repos\gra\gra\obj\Debug\netcoreapp3.1\gra.AssemblyInfoInputs.cache
+C:\Users\devan\source\repos\gra\gra\obj\Debug\netcoreapp3.1\gra.AssemblyInfo.cs
+C:\Users\devan\source\repos\gra\gra\obj\Debug\netcoreapp3.1\gra.csproj.CoreCompileInputs.cache
+C:\Users\devan\source\repos\gra\gra\bin\Debug\netcoreapp3.1\gra.exe
+C:\Users\devan\source\repos\gra\gra\bin\Debug\netcoreapp3.1\gra.deps.json
+C:\Users\devan\source\repos\gra\gra\bin\Debug\netcoreapp3.1\gra.runtimeconfig.json
+C:\Users\devan\source\repos\gra\gra\bin\Debug\netcoreapp3.1\gra.runtimeconfig.dev.json
+C:\Users\devan\source\repos\gra\gra\bin\Debug\netcoreapp3.1\gra.dll
+C:\Users\devan\source\repos\gra\gra\bin\Debug\netcoreapp3.1\gra.pdb
+C:\Users\devan\source\repos\gra\gra\obj\Debug\netcoreapp3.1\gra.dll
+C:\Users\devan\source\repos\gra\gra\obj\Debug\netcoreapp3.1\gra.pdb
+C:\Users\devan\source\repos\gra\gra\obj\Debug\netcoreapp3.1\gra.genruntimeconfig.cache
